@@ -7,3 +7,4 @@
  I have the following python skils:
   - numpy 
   - list and dict
+  - pandas.numpy
